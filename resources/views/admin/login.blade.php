@@ -164,7 +164,7 @@
     <section class="login-container sm:space-y-10 space-y-3 bg-[#0000004d] sm:p-10 rounded-2xl backdrop-blur-sm p-5">
         <h1
             class="font-bold sm:text-6xl md:text-8xl text-5xl text-center bg-gradient-to-r from-yellow-500 to-cyan-500 text-transparent bg-clip-text">
-            Admin Illustrade</h1>
+            Admin Illustrasia</h1>
         <div class="login-button flex flex-col justify-center mx-auto">
             <a href="{{ route('admin.redirect') }}"><img src="{{ asset('assets/google.webp') }}" class="google-logo"> <span class="span1">Sign
                     In with Gmail</span></button>

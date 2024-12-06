@@ -38,7 +38,7 @@
         <div class="container mx-auto px-6 text-center">
             <h2 class="text-3xl font-bold mb-6">Join the Community</h2>
             <p class="max-w-xl mx-auto mb-8">Whether you're an artist eager to showcase your portfolio or a customer
-                searching for unique illustrations, Illustrade is the platform for you.</p>
+                searching for unique illustrations, Illustrasia is the platform for you.</p>
             <a href="{{ route('index') }}" class="bg-black px-6 py-3 rounded shadow-lg font-bold hover:bg-gray-800">Sign Up Now</a>
         </div>
     </section>
