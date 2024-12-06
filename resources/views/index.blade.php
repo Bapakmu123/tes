@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Illustrade</title>
+    <title>Illustrasia</title>
     <!-- Link to Montserrat font from Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
     <!-- Link to Merriweather font from Google Fonts -->
@@ -175,7 +175,7 @@
             <h1 class="block z-10 px-2 text-7xl text-white text-center font-bold mt-8"><span
                     class="thin drop-shadow-md">Welcome
                     to</span> <span class="brand text-black highlight-text italic tracking-wider"
-                    id="brand">Illustrade </span> <span class="ml-2 border border-black key"></span>
+                    id="brand">Illustrasia </span> <span class="ml-2 border border-black key"></span>
             </h1>
             <div class="grid grid-cols-12 mt-8 w-full z-10" id="role">
                 <div class="col-span-12 md:col-span-6">
@@ -204,7 +204,7 @@
 
     <script>
         const brandEle = document.getElementById('brand');
-        let brandName = 'Illustrade';
+        let brandName = 'Illustrasia';
         let idx = 0;
         let state = 0;
         let currentName = '';
